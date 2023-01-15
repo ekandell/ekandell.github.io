@@ -28,7 +28,7 @@ url: "https://ekandell.github.io" # the base hostname & protocol for your site, 
 github_username:  ekandell
 
 # Build settings
-remote_theme: pages-themes/tactile@v0.2.0
+theme: tactile
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
