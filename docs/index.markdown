@@ -13,6 +13,6 @@ I'm a UC Berkeley student double majoring in __Computer Science__ and __Data Sci
 
 #### Links:
 
-(Projects)[https://ekandell.github.io/projects/]
+[Projects](https://ekandell.github.io/projects/)
 
-(About)[https://ekandell.github.io/about/]
+[About](https://ekandell.github.io/about/)
