@@ -1,8 +1,9 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+title: Welcome
 layout: default
+description: Glad you're here
 ---
 
 ## Hi, I'm Evan Kandell
@@ -12,6 +13,8 @@ I'm a UC Berkeley student double majoring in __Computer Science__ and __Data Sci
 :)
 
 #### Links:
+
+[Home](https://ekandell.github.io/)
 
 [Projects](https://ekandell.github.io/projects/)
 

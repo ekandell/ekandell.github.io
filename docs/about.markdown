@@ -1,18 +1,16 @@
 ---
 layout: default
-title: About
+title: About Me
+description: Read below to see my story
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a strong student and a fast learner. Additionally, I'm generally a quiet, laid-back person, and that means when presented with a problem I don't rush in right away, but I'm able to look at it from multiple angles and figure out the best path forward. One of the things that appeals to me most about computer science is its puzzle-like qualities, in which taking that extra time to reread the problem and create a design doc can make a difference. It also means I truly get joy from coming up with the solutions, just like I might with a puzzle.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+#### Links:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[Home](https://ekandell.github.io/)
 
+[Projects](https://ekandell.github.io/projects/)
 
-[jekyll-organization]: https://github.com/jekyll
+[About](https://ekandell.github.io/about/)
