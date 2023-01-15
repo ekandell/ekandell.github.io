@@ -27,6 +27,17 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ekandell.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ekandell
 
+
+docs_list_title: Links
+docs:
+
+- title: About
+  url: about/index.html
+
+- title: Home
+  url: index.html
+
+
 # Build settings
 remote_theme: pages-themes/tactile@v0.2.0
 plugins:
