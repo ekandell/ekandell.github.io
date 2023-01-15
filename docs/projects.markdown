@@ -1,6 +1,8 @@
+---
 title: Projects
 layout: default
 description: A list of the most exciting pieces of code I've written in the past two years.
+permalink: /projects/
 ---
 
 - ### This site!
