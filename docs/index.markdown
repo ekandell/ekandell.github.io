@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+# Hi, I'm Evan Kandell
+
+I'm a UC Berkeley student double majoring in __Computer Science__ and __Data Science__. Thanks for checking out my site! Here you can find links to personal projects, descriptions of school projects, my resume, and more.
+
+:)
