@@ -1,9 +1,9 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: Welcome
+title: Welcome, I'm glad you're here.
 layout: default
-description: Glad you're here
+description: This site is still under construction, but will hopefully be finished soon
 ---
 
 # Hi, I'm Evan Kandell
