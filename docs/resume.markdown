@@ -3,7 +3,7 @@ title: My Resume
 layout: default
 ---
 <div id="resume">
-<iframe width="150%" height="800" src="assets/resume"></div>
+<iframe width="150%" height="800" src="assets/resume.pdf" title="Resume"></div>
 
 #### Links:
 
