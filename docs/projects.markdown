@@ -9,11 +9,11 @@ permalink: /projects/
 
     > My first foray into using jekyll and markdown to produce a functioning website.
 
-- ### Encrypted File Sharing
+- #### Encrypted File Sharing
 
-    >> A project for my cybersecurity class. Very tough but very rewarding.
+    > A project for my cybersecurity class. Very tough but very rewarding.
 
-- ### RookieDB
+- #### RookieDB
 
 
 #### Links:

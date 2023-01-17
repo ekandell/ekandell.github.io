@@ -19,3 +19,5 @@ I'm a UC Berkeley student double majoring in __Computer Science__ and __Data Sci
 [Projects](https://ekandell.github.io/projects/)
 
 [About](https://ekandell.github.io/about/)
+
+[Resume](https://ekandell.github.io/assets/resume)
