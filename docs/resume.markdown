@@ -2,7 +2,7 @@
 title: My Resume
 layout: default
 ---
-<iframe width="150%" height="800" src="assets/resume.pdf">
+<iframe width="150%" height="800" src="assets/resume.pdf"></iframe>
 
 #### Links:
 
