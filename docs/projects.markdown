@@ -10,10 +10,14 @@ permalink: /projects/
     > My first foray into using jekyll and markdown to produce a functioning website.
 
 - #### Encrypted File Sharing
-
+\([Project Spec](https://fa22.cs161.org/proj2/)\) \- Github link available upon request
     > A project for my cybersecurity class. Very tough but very rewarding.
 
 - #### RookieDB
+
+    > Database
+
+- #### 
 
 
 #### Links:
