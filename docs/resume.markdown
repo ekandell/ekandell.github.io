@@ -1,12 +1,12 @@
 ---
 title: My Resume
 layout: default
-description: 
+description: :)
 ---
-
 
 <iframe width="150%" height="800" src="assets/resume.pdf" title="Resume">
 
+---
 
 #### Links:
 
