@@ -4,9 +4,9 @@ layout: default
 description: :)
 ---
 
+<div id="resume">
 <iframe width="150%" height="800" src="assets/resume.pdf" title="Resume">
-
----
+</div>
 
 #### Links:
 
