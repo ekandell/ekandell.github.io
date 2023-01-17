@@ -20,4 +20,4 @@ I'm a UC Berkeley student double majoring in __Computer Science__ and __Data Sci
 
 [About](https://ekandell.github.io/about/)
 
-[Resume](https://ekandell.github.io/assets/resume)
+[Resume](https://ekandell.github.io/resume)
