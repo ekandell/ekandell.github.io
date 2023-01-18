@@ -22,7 +22,7 @@ title: Personal Website
 email: ekandell@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
   I'm a UC Berkeley student double majoring in Computer Science and Data Science. Thanks for checking out my site! 
-  Here you can find links to personal projects, descriptions of school projects, my resume, and more.
+  Here you can find links to personal projects, descriptions of school projects, my resume, and more. [Home](https://ekandell.github.io/)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ekandell.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ekandell
