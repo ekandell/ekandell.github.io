@@ -7,14 +7,14 @@
     overflow: hidden;
     position:fixed;
     height: 100%;
-    width: 15%;
+    width: 21%;
     z-index: 1;
     top: 0;
     left: 0;
     padding-top: 60px;
   }
 
-.navbar a {
+.navbar a, .navbar br {
     float: left;
     color: #f2f2f2;
     text-align: center;
