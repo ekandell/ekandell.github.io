@@ -6,8 +6,8 @@ permalink: /projects/
 ---
 <base target="_blank">
 
-- ### This site!
-#####[Github Repo](https://github.com/ekandell/ekandell.github.io)
+- ## This site!
+[##### Github Repo](https://github.com/ekandell/ekandell.github.io)
     > My first foray into using jekyll and markdown to produce a functioning website.
 
 - #### Encrypted File Sharing
