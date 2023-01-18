@@ -18,14 +18,3 @@ permalink: /projects/
     > Database
 
 - #### 
-
-
-#### Links:
-
-[Home](https://ekandell.github.io/)
-
-[Projects](https://ekandell.github.io/projects/)
-
-[About](https://ekandell.github.io/about/)
-
-[Resume](https://ekandell.github.io/resume)
