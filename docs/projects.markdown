@@ -40,6 +40,10 @@ permalink: /projects/
 ##### A simple swift iOS app I built to replicate tangible flashcards.
 <br>
 
+- ## Spotify Stats Web App
+Coming Soon!
+<br>
+
 - ## NumC
 [Project Spec](https://fa22.cs161.org/proj2/) \- Github repo available upon request
 <br>
