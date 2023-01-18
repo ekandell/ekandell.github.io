@@ -31,8 +31,13 @@ permalink: /projects/
 - ## This site!
 [Github Repo](https://github.com/ekandell/ekandell.github.io)
 <br>
-##### My first foray into using jekyll and markdown to produce a functioning website.
+##### My first foray into using jekyll and markdown in addition to html and CSS to produce a functioning website.
 <br>
+
+- ## Ultimate Frisbee Team Site
+[Github Repo](https://github.com/ekandell/ultimate-team-site)
+<br>
+##### A site I built using web foundations - html, CSS, and javascript - to advertise my ultimate frisbee team. Although it was never published and needs to be updated with the new roster, it has good fundamentals in addition to some fun javascript additions.
 
 - ## Flashcards
 [Github Repo](https://github.com/ekandell/flashcards)
