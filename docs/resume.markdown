@@ -1,6 +1,7 @@
 ---
 title: My Resume
 layout: default
+permalink: /resume/
 ---
 
 <div id="resume">
