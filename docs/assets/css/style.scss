@@ -7,7 +7,7 @@
     overflow: hidden;
     position:fixed;
     height: 100%;
-    width: 21%;
+    width: 22%;
     z-index: 1;
     top: 0;
     left: 0;
@@ -18,17 +18,18 @@
     float: left;
     color: #f2f2f2;
     text-align: center;
-    padding: 30px 40px;
+    padding: 20px 30px;
     text-decoration: none;
     font-size: 26px;
     display: block;
   }
 
-  .navbar a:hover {
+.navbar a:hover {
     color: rgb(38, 114, 138);
   }
 
 .inner {
-    left: 25%;
+    position:fixed;
+    left: 26%;
     width: 70%;
 }
