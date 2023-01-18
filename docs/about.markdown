@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About Me
-description: Read below to see my story
+description: Read below to learn more about who I am
 permalink: /about/
 ---
 

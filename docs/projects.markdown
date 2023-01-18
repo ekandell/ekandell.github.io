@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: default
-description: A list of the most exciting pieces of code I've written in the past two years.
+description: A compilation of the most exciting pieces of code I've written in the past two years.
 permalink: /projects/
 ---
 - ## This site!
@@ -10,12 +10,14 @@ permalink: /projects/
 
 - ## Encrypted File Sharing
 [Project Spec](https://fa22.cs161.org/proj2/) \- Github repo and design doc available upon request
-    > A project for my cybersecurity class, which was very tough but very rewarding. I build a client to store data in an insecure database utilizing public and private key cryptography, digital signatures, HMACs, Password-based and hash-based key derivation, and more. Although the \>1000 lines of code were difficult, the design of this project was the hardest part and took the most time. I'm very proud of this project due to it's complexity both in conceptual understanding and implementation.
+    A project for my cybersecurity class, which was very tough but very rewarding. I build a client to store data in an insecure database utilizing public and private key cryptography, digital signatures, HMACs, Password-based and hash-based key derivation, and more. Although writing the \>1000 lines of Golang was difficult, the design of this project was more so. I'm very proud of this project due to it's complexity both in conceptual understanding and implementation.
 
 - ## RookieDB
 [Project Spec](https://fa22.cs161.org/proj2/) \- Github repo available upon request
-    > Over the course of a semester, I built nearly every aspect of a database management system. RookieDB used B+ tree indices, and supported various advancements that are essential to today's database systems. These included query optimization, recovery logging, concurrency. I also learned SQL as I worked on it so as to be able to properly use the software.
+    > Over the course of a semester, I built nearly every aspect of a database management system in Java. RookieDB used B+ tree indices, and supported various advancements that are essential to today's database systems. These included query optimization, recovery logging, concurrency. I also learned SQL as I worked on it so as to be able to properly use the software.
 
 - ## Flashcards
 [Github Repo](https://github.com/ekandell/flashcards)
     > A simple iOS app I built to replicate tangible flashcards.
+
+- ## 
