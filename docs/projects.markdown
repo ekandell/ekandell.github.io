@@ -17,4 +17,6 @@ permalink: /projects/
 [Project Spec](https://fa22.cs161.org/proj2/) \- Github link available upon request
     > Database
 
-- #### 
+- #### Flashcards
+[Github Repo](https://github.com/ekandell/flashcards)
+    > A simple iOS app I built to replicate tangible flashcards.
