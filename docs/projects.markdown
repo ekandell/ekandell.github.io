@@ -11,7 +11,7 @@ permalink: /projects/
 
 - #### Encrypted File Sharing
 [Project Spec](https://fa22.cs161.org/proj2/) \- Github link available upon request
-    > A project for my cybersecurity class. Very tough but very rewarding.
+    > A project for my cybersecurity class, which was very tough but very rewarding. I build a client to store data in an insecure database utilizing public and private key cryptography, digital signatures, HMACs, Password-based hashing, 
 
 - #### RookieDB
 [Project Spec](https://fa22.cs161.org/proj2/) \- Github link available upon request
