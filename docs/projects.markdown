@@ -26,7 +26,7 @@ permalink: /projects/
 
 - ## Gitlet
 [Project Spec](https://fa22.cs161.org/proj2/) \- Github repo available upon request
-    > I created my own version of the python library Numpy using C. I optimized code for significantly increased performance (up to 500x speedup) using SIMD, OpenMP, loop unrolling, and more efficient algorithms.
+    > In Java, I created a version-control software based on Git that replicates add, remove, checkout, reset, merge, etc. 
 
 - ## Build Your Own World
 [Project Spec](https://fa22.cs161.org/proj2/) \- Github repo available upon request
