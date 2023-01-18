@@ -14,7 +14,7 @@
     padding-top: 60px;
   }
 
-.navbar a {
+.navbar .page {
     float: left;
     color: #f2f2f2;
     text-align: center;
@@ -24,6 +24,6 @@
     display: block;
   }
 
-  .navbar a:hover {
-    color: rgb(58, 177, 213);
+  .navbar .page:hover {
+    color: rgb(38, 114, 138);
   }
