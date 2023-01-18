@@ -18,7 +18,7 @@
     float: left;
     color: #f2f2f2;
     text-align: center;
-    padding: 10px 50px 10px 15px;
+    padding: 10px 100px 10px 15px;
     text-decoration: none;
     font-size: 24px;
     display: block;
@@ -28,6 +28,10 @@
     color: rgb(38, 114, 138);
   }
 
+#spacer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
 #container {
     top: 0;
     bottom: 0;
