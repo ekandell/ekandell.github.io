@@ -7,13 +7,13 @@ permalink: /projects/
 - ## Encrypted File Sharing
 [Project Spec](https://fa22.cs161.org/proj2/) \- Github repo and design doc available upon request 
 <br>
-##### A project for my cybersecurity class, which was very tough but very rewarding. I built a client to store data in an insecure database utilizing public and private key cryptography, digital signatures, HMACs, Password-based and hash-based key derivation, and more. Although writing the \>1000 lines of Golang was difficult, the design of this project was more so. I'm very proud of this project due to it's complexity both in conceptual understanding and implementation.
+##### For a project for my cybersecurity class, which was very tough but very rewarding, I built a client to store data in an insecure database utilizing public and private key cryptography, digital signatures, HMACs, Password-based and hash-based key derivation, and more. Although writing the \>1000 lines of Golang was difficult, the design of this project was more so. I'm proud of this project due to it's complexity both in conceptual understanding and implementation.
 <br> 
 
 - ## RookieDB
 [Project Spec](https://fa22.cs161.org/proj2/) \- Github repo available upon request
 <br>
-##### Over the course of a semester, I built nearly every aspect of a database management system in Java. RookieDB used B+ tree indices, and supported various advancements that are essential to today's database systems. These included query optimization, recovery logging, concurrency. I also learned SQL as I worked on it so as to be able to properly use the software.
+##### Over the course of a semester, I built nearly every aspect of a database management system in Java. I implemented B+ tree indices and supported various advancements that are essential to today's database systems. These included query optimization, recovery logging, concurrency. I also learned SQL as I worked on the project so as to be able to properly use the software.
 <br>
 
 - ## Build Your Own World
@@ -25,13 +25,13 @@ permalink: /projects/
 - ## Hog and Scheme Contests
 [Hog Leaderboard](https://hog-contest.cs61a.org/winners) \- [Scheme Submission (Abstract Snail)](https://inst.eecs.berkeley.edu/~cs61a/sp21/proj/scheme_gallery/#abstract-snail)
 <br>
-##### I got second place in a strategy contest for the hog dice game in a famously difficult, 1000+ person intro CS class. I achieved this using intense recursion and probability to predict what the rest of the game might look like, and basing my choices on that. Additionally, in the same class, I won first place in a graphics contest using the Scheme programming language to create an image.
+##### I placed second in a strategy contest for the hog dice game in a famously difficult, 1000+ person intro CS class. I achieved this using intense recursion and probability to predict what the rest of the game might look like, and basing my choices on that. Additionally, in the same class, I won first place in a graphics contest using the Scheme programming language to create an image.
 <br>
 
-- ## This site!
+- ## Personal Website
 [Github Repo](https://github.com/ekandell/ekandell.github.io)
 <br>
-##### My first foray into using jekyll and markdown in addition to html and CSS to produce a functioning website.
+##### My first foray into using jekyll and markdown in addition to HTML and CSS to produce a functioning website where I can display my projects and accomplishments.
 <br>
 
 - ## Ultimate Frisbee Team Site
