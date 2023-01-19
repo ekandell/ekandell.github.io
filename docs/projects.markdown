@@ -7,7 +7,7 @@ permalink: /projects/
 - ## Encrypted File Sharing
 [Project Spec](https://fa22.cs161.org/proj2/) \- Github repo and design doc available upon request 
 <br>
-##### A project for my cybersecurity class, which was very tough but very rewarding. I build a client to store data in an insecure database utilizing public and private key cryptography, digital signatures, HMACs, Password-based and hash-based key derivation, and more. Although writing the \>1000 lines of Golang was difficult, the design of this project was more so. I'm very proud of this project due to it's complexity both in conceptual understanding and implementation.
+##### A project for my cybersecurity class, which was very tough but very rewarding. I built a client to store data in an insecure database utilizing public and private key cryptography, digital signatures, HMACs, Password-based and hash-based key derivation, and more. Although writing the \>1000 lines of Golang was difficult, the design of this project was more so. I'm very proud of this project due to it's complexity both in conceptual understanding and implementation.
 <br> 
 
 - ## RookieDB
@@ -38,7 +38,7 @@ permalink: /projects/
 [Github Repo](https://github.com/ekandell/ultimate-team-site)
 <br>
 ##### A site I built using web foundations - html, CSS, and javascript - to advertise my ultimate frisbee team. Although it was never published and needs to be updated with the new roster, it has good fundamentals in addition to some fun javascript additions.
-
+<br>
 - ## Flashcards
 [Github Repo](https://github.com/ekandell/flashcards)
 <br>
