@@ -36,7 +36,7 @@ permalink: /about/
 
 ## Extracurriculars
 
-<font size="4"> Of course, I also do many activities outside of school. I'm a player on Cal Ursa Major, UC Berkeley's club Ultimate Frisbee team with whom I placed 5th in the nation last year. I spend over 10 hours per week at practices, doing workouts, watching film, and traveling across the country to tournaments with the team. I've been playing Ultimate for the last seven years, and Ursa Major has been a huge part of my experience at Cal. It has given me a great group of friends, motivation to always be improving myself, and a support network I can fall back on when I need to.</font>
+<font size="4"> I'm a player on Cal Ursa Major, UC Berkeley's Club Men's Ultimate Frisbee team, and we placed 5th in the nation out of all college teams last year. I spend over 10 hours per week at practices, doing workouts, watching film, and traveling across the country to tournaments with the team. I've been playing Ultimate for the last seven years, and Ursa Major has been a huge part of my experience at Cal. It has given me a great group of friends, motivation to always be improving myself, and a support network I can fall back on when I need to.</font>
 <br>
 <font size="4"> I also live within the Berkeley Student Cooperative, a housing organization where each of the tenants contributes to the overall well-being of the house. Living in a co-op has taught me a lot about living with others and the work that goes into maintaining a house, lessons I don't think I would have learned in a traditional dorm. I'm very grateful for the opportunities it has provided me and for the skills I've gained working as an assistant cook for the house.</font>
 
