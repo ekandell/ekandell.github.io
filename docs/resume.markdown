@@ -1,6 +1,7 @@
 ---
 title: My Resume
 layout: default
+description: Learn more about me!
 ---
 
 <div id="resume">

@@ -7,7 +7,7 @@ permalink: /projects/
 - ## Encrypted File Sharing
 [Project Spec](https://fa22.cs161.org/proj2/) \- Github repo and design doc available upon request 
 <br>
-##### For a project for my cybersecurity class, which was very tough but very rewarding, I built a client to store data in an insecure database utilizing public and private key cryptography, digital signatures, HMACs, Password-based and hash-based key derivation, and more. Although writing the \>1000 lines of Golang was difficult, the design of this project was more so. I'm proud of this project due to it's complexity both in conceptual understanding and implementation.
+##### For a project for my cybersecurity class, which was very tough but very rewarding, I built a client to store confidential data in an insecure database without compromising security. I utilized public and private key cryptography, digital signatures, HMACs, password-based and hash-based key derivation, and more. Although writing the \>1000 lines of Golang was difficult, the design of this project was more so. I'm proud of this project due to it's complexity both in conceptual understanding and implementation.
 <br> 
 
 - ## RookieDB
@@ -19,7 +19,7 @@ permalink: /projects/
 - ## Build Your Own World
 [Project Spec](https://fa22.datastructur.es/materials/proj/proj3/) \- Github repo available upon request \- [In-depth Video](https://www.youtube.com/watch?v=yT7JsByTKUo&ab_channel=DhruvVaish)
 <br>
-##### Collaboratively built an interactive 2D video game with randomly generated worlds. By far the most creative project I've done, where we got to establish aesthetics and design of both the world and code, including underlying data structures and algorithms. Added in extra features to the base spec, such as audio, cheat codes, and more complicated gameplay mechanics.
+#####  By far the most creative project I've done, where my partner and I established aesthetics and design of both the world and code, including underlying data structures and algorithms. We collaboratively built an interactive 2D video game with randomly generated worlds. I also added in extra features beyond the base spec, such as audio, cheat codes, and more complicated gameplay mechanics.
 <br>
 
 - ## Hog and Scheme Contests
