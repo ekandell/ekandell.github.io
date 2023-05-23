@@ -69,4 +69,40 @@
 }
 
 @media screen and (max-width: 540px) {
+    .nonmobile {
+        display: none;
+    }
+    .navbar {
+        background-color: #587157;
+        //overflow-x: hidden;
+        position:fixed;
+        height: 20%;
+        width: 100%;
+        z-index: 1;
+        top: 0;
+        left: 0;
+        padding-left: 5%;
+        padding-top: 3%
+    }
+
+    .navbar .page {
+        //float: left;
+        color: #ffffff;
+        text-align: center;
+        //padding: 10px 15px 10px 15px;
+        text-decoration: none;
+        font-size: 16px;
+        display: block;
+    }
+
+    .navbar a:hover {
+        color: #cec814;
+    }
+
+    #name {
+        font-family: 'Great Vibes', cursive;
+        font-size: 20px;
+        padding-top: 0px;
+        padding-bottom: 0%;
+    }
 }
