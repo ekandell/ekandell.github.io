@@ -72,11 +72,14 @@
     #nonmobile {
         display: none;
     }
+    #headshot {
+        display:none;
+    }
     .navbar {
         background-color: #587157;
         //overflow-x: hidden;
         position:fixed;
-        height: 20%;
+        height: 10%;
         width: 100%;
         z-index: 1;
         top: 0;
@@ -100,9 +103,15 @@
     }
 
     #name {
-        font-family: 'Great Vibes', cursive;
-        font-size: 20px;
-        padding-top: 0px;
-        padding-bottom: 0%;
+        display:none;
+        // font-family: 'Great Vibes', cursive;
+        // font-size: 20px;
+        // padding-top: 0px;
+        // padding-bottom: 0%;
+    }
+
+    #resume {
+        width:80%;
+        height:80%;
     }
 }
