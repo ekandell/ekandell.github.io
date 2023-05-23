@@ -13,5 +13,8 @@ description: Coder. Tutor. Data Scientist. Problem Solver.
 <font size="4"> Now, entering my second semester of junior year and armed with the strong foundation of knowledge that only Berkeley can offer, I'm working to find an internship where I can use these skills to make a difference while also preparing me for my future career.
 </font>     
 <br>
-<font size="4">If you have any questions or want to contact me further, my information is listed on the navigation bar to the left. Hope to hear from you soon!
+<font size="4">If you have any questions or want to contact me further, my information is listed below. Hope to hear from you soon!
 </font>     
+<a href="mailto:ekandell@berkeley.edu" target="_blank" rel="noopener noreferrer" class="page">ekandell@berkeley.edu</a>
+<a href="http://www.linkedin.com/in/evan-kandell" target="_blank" rel="noopener noreferrer" class="page">LinkedIn</a>
+<a href="https://github.com/ekandell" target="_blank" rel="noopener noreferrer" class="page">GitHub</a>
