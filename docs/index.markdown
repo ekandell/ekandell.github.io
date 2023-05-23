@@ -14,7 +14,10 @@ description: Coder. Tutor. Data Scientist. Problem Solver.
 </font>     
 <br>
 <font size="4">If you have any questions or want to contact me further, my information is listed below. Hope to hear from you soon!
-</font>     
+</font> 
+<br>    
 <a href="mailto:ekandell@berkeley.edu" target="_blank" rel="noopener noreferrer" class="page">ekandell@berkeley.edu</a>
+<br>
 <a href="http://www.linkedin.com/in/evan-kandell" target="_blank" rel="noopener noreferrer" class="page">LinkedIn</a>
+<br>
 <a href="https://github.com/ekandell" target="_blank" rel="noopener noreferrer" class="page">GitHub</a>
