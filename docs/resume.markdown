@@ -6,6 +6,6 @@ description: Learn more about me!
 
 <div id="resume">
 
-<iframe width="100%" height="800" src="assets/resume.pdf">
+<iframe width="100%" height="800" src="assets/Evan Kandell Resume.pdf">
 
 </div>
