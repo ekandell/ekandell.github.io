@@ -10,16 +10,19 @@ permalink: /about/
 <br>
 <font size="4">I've taken a large variety of Computer Science and Data Science courses, listed below.</font>
 <br>
-- Current Courses (Spring 2023)
-    - **CS 188** Intro to Artificial Intelligence
-    - **EECS 126** Probability + Random Processes
+- Current Courses (Fall 2023)
+    - **CS 164** Programming Languages and Compilers
+    - **CS 169A** Intro to Software Engineering
+    - **Data 104** Human Contexts and Ethics of Data
 - CS Courses
     - **CS 61A** Structure & Interpretation of Computer Programs
     - **CS 61B** Data Structures & Programming Methodology
     - **CS 61C** Computer Architecture
-    - **CS 198** Web + iOS Development
     - **CS 161** Computer Security
     - **CS 186** Database Systems
+    - **CS 188** Intro to Artificial Intelligence
+    - **CS 198** Web + iOS Development
+    - **CogSci 131** Computational Models of Cognition
 - Data Courses
     - **CS 70** Discrete Mathematics and Probability Theory
     - **Data 8** Foundations of Data Science
@@ -28,10 +31,8 @@ permalink: /about/
     - **Math 54** Linear Algebra and Differential Equations
 - Planned Future Courses
     - **INFO 159** Natural Language Processing
-    - **CS 162** Operating Systems and System Programming
-    - **Data 102** Data, Inference, and Decisions
-    - **Data 104** Human Contexts and Ethics of Data
     - **CS 160** User Interface Design and Development
+    - **CS 162** Operating Systems and System Programming
     - **CS 170** Efficient Algorithms and Intractable Problems
 
 ## Extracurriculars
