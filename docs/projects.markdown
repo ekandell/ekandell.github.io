@@ -34,21 +34,6 @@ permalink: /projects/
 ##### My first foray into using jekyll and markdown in addition to HTML and CSS to produce a functioning website where I can display my projects and accomplishments.
 <br>
 
-- ## Ultimate Frisbee Team Site
-[Github Repo](https://github.com/ekandell/ultimate-team-site)
-<br>
-##### A site I built using web foundations - html, CSS, and javascript - to advertise my ultimate frisbee team. Although it was never published and needs to be updated with the new roster, it has good fundamentals in addition to some fun javascript additions.
-<br>
-- ## Flashcards
-[Github Repo](https://github.com/ekandell/flashcards)
-<br>
-##### A simple swift iOS app I built to replicate tangible flashcards.
-<br>
-
-- ## Spotify Stats Web App
-Coming Soon!
-<br>
-
 - ## NumC
 [Project Spec](https://fa22.cs161.org/proj2/) \- Github repo available upon request
 <br>
@@ -59,3 +44,19 @@ Coming Soon!
 [Project Spec](https://sp21.datastructur.es/materials/proj/proj2/proj2) \- Github repo available upon request
 <br>
 ##### Working with a partner, I created a version-control software in Java based on Git that replicates add, remove, checkout, reset, merge, etc. 
+<br>
+
+- ## Ultimate Frisbee Team Site
+[Github Repo](https://github.com/ekandell/ultimate-team-site)
+<br>
+##### A site I built using web foundations - html, CSS, and javascript - to advertise my ultimate frisbee team. Although it was never published and needs to be updated with the new roster, it has good fundamentals in addition to some fun javascript additions.
+<br>
+
+- ## Flashcards
+[Github Repo](https://github.com/ekandell/flashcards)
+<br>
+##### A very simple swift iOS app I built to replicate tangible flashcards.
+<br>
+
+- ## Spotify Stats Web App
+In production!
