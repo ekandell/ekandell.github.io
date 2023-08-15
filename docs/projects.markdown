@@ -14,7 +14,6 @@ permalink: /projects/
 [Project Spec]([https://fa22.cs161.org/proj2/](https://inst.eecs.berkeley.edu/~cs188/sp23/projects/)) \- Github repos available upon request 
 <br>
 ##### In order to learn the building blocks of modern-day artificial intelligence and machine learning, I utilized algorithms/tools such as A* search, logical inference, Q-learning, Hidden Markov Models, Bayes Networks, neural networks, and more to solve a variety of increasingly complex search problems. These projects were all completed in Python, with the Pacman world as a foundation to base the rules of my algorithms and processes on.
-
 <br> 
 
 - ## RookieDB
