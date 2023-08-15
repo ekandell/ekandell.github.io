@@ -14,7 +14,7 @@ permalink: /about/
     - **CS 164** Programming Languages and Compilers
     - **CS 169A** Intro to Software Engineering
     - **Data 104** Human Contexts and Ethics of Data
-- CS Courses
+- Computer Science (CS) Courses
     - **CS 61A** Structure & Interpretation of Computer Programs
     - **CS 61B** Data Structures & Programming Methodology
     - **CS 61C** Computer Architecture
