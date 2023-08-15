@@ -7,19 +7,26 @@ permalink: /projects/
 - ## Encrypted File Sharing
 [Project Spec](https://fa22.cs161.org/proj2/) \- Github repo and design doc available upon request 
 <br>
-##### For a project for my cybersecurity class, which was very tough but very rewarding, I built a client to store confidential data in an insecure database without compromising security. I utilized public and private key cryptography, digital signatures, HMACs, password-based and hash-based key derivation, and more. Although writing the \>1000 lines of Golang was difficult, the design of this project was more so. I'm proud of this project due to it's complexity both in conceptual understanding and implementation.
+##### For a project for my cybersecurity class, which was very tough but very rewarding, I built a client to store confidential data in an insecure database without compromising security. I utilized public and private key cryptography, digital signatures, HMACs, password-based and hash-based key derivation, and more. Although writing the \>1000 lines of Golang was difficult, the design of this project was more so. I'm proud of this project due to its complexity both in conceptual understanding and implementation.
+<br> 
+
+- ## Pacman AI/ML
+[Project Spec]([https://fa22.cs161.org/proj2/](https://inst.eecs.berkeley.edu/~cs188/sp23/projects/)) \- Github repos available upon request 
+<br>
+##### In order to learn the building blocks of modern-day artificial intelligence and machine learning, I utilized algorithms/tools such as A* search, logical inference, Q-learning, Hidden Markov Models, Bayes Networks, neural networks, and more to solve a variety of increasingly complex search problems. These projects were all completed in Python, with the Pacman world as a foundation to base the rules of my algorithms and processes on.
+
 <br> 
 
 - ## RookieDB
 [Project Spec](https://fa22.cs161.org/proj2/) \- Github repo available upon request
 <br>
-##### Over the course of a semester, I built nearly every aspect of a database management system in Java. I implemented B+ tree indices and supported various advancements that are essential to today's database systems. These included query optimization, recovery logging, concurrency. I also learned SQL as I worked on the project so as to be able to properly use the software.
+##### Over the course of a semester, I built nearly every aspect of a database management system in Java. I implemented B+ tree indices and supported various advancements that are essential to today's database systems. These included query optimization, recovery logging, and concurrency. I also learned SQL as I worked on the project so as to be able to properly use the software.
 <br>
 
 - ## Build Your Own World
 [Project Spec](https://fa22.datastructur.es/materials/proj/proj3/) \- Github repo available upon request \- [In-depth Video](https://www.youtube.com/watch?v=yT7JsByTKUo&ab_channel=DhruvVaish)
 <br>
-#####  By far the most creative project I've done, where my partner and I established aesthetics and design of both the world and code, including underlying data structures and algorithms. We collaboratively built an interactive 2D video game with randomly generated worlds. I also added in extra features beyond the base spec, such as audio, cheat codes, and more complicated gameplay mechanics.
+#####  By far the most creative project I've done, where my partner and I established aesthetics and design of both the world and code, including underlying data structures and algorithms. We collaboratively built an interactive 2D video game with randomly generated worlds. I also added extra features beyond the base spec, such as audio, cheat codes, and more complicated gameplay mechanics.
 <br>
 
 - ## Hog and Scheme Contests
@@ -31,13 +38,13 @@ permalink: /projects/
 - ## Personal Website
 [Github Repo](https://github.com/ekandell/ekandell.github.io)
 <br>
-##### My first foray into using jekyll and markdown in addition to HTML and CSS to produce a functioning website where I can display my projects and accomplishments.
+##### My first foray into using Jekyll and markdown in addition to HTML and CSS to produce a functioning website where I can display my projects and accomplishments.
 <br>
 
 - ## NumC
 [Project Spec](https://fa22.cs161.org/proj2/) \- Github repo available upon request
 <br>
-##### I created my own version of the python library Numpy using C. I optimized code for significantly increased performance (up to 500x speedup) using SIMD, OpenMP, loop unrolling, and more efficient algorithms.
+##### I created my own version of the Python library Numpy using C. I optimized code for significantly increased performance (up to 500x speedup) using SIMD, OpenMP, loop unrolling, and more efficient algorithms.
 <br>
 
 - ## Gitlet
@@ -49,7 +56,7 @@ permalink: /projects/
 - ## Ultimate Frisbee Team Site
 [Github Repo](https://github.com/ekandell/ultimate-team-site)
 <br>
-##### A site I built using web foundations - html, CSS, and javascript - to advertise my ultimate frisbee team. Although it was never published and needs to be updated with the new roster, it has good fundamentals in addition to some fun javascript additions.
+##### A site I built using web foundations - HTML, CSS, and javascript - to advertise my ultimate frisbee team. Although it was never published and needs to be updated with the new roster, it has good fundamentals in addition to some fun javascript additions.
 <br>
 
 - ## Flashcards
