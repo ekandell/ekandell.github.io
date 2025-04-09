@@ -19,5 +19,3 @@ description: Developer. Data Scientist. Tutor. Problem Solver.
 <a href="mailto:ekandell@berkeley.edu" target="_blank" rel="noopener noreferrer" class="page">ekandell@berkeley.edu</a>
 <br>
 <a href="http://www.linkedin.com/in/evan-kandell" target="_blank" rel="noopener noreferrer" class="page">LinkedIn</a>
-<br>
-<a href="https://github.com/ekandell" target="_blank" rel="noopener noreferrer" class="page">GitHub</a>
